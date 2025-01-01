@@ -1,4 +1,4 @@
-
+.
 <!-- START GLOBAL CORPORATION -->
 <h3 align="center">
   Global Corporation
